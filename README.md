@@ -1,1 +1,1 @@
-# django-blog
+# Flight-price-prediction-end-to-end
